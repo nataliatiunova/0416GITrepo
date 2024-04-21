@@ -1,3 +1,53 @@
+commit f2f4c04a09f771e31e01f56b0b271348c6ac779e
+Merge: 3501760 5f1c7b8
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 23:28:08 2024 -0700
+
+    Merge branch 'branch4'
+
+commit 3501760ee07dfac38b87bf52a5b4e0be50550c6d
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 23:27:14 2024 -0700
+
+    strike font
+
+commit 5f1c7b8a87514c2338384b600b49ae51b9897125
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 23:10:30 2024 -0700
+
+    update branch4, italic
+
+commit 5e888e170890d47dd34b377217f1b37dd12fad52
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 23:03:06 2024 -0700
+
+    branch4 created for conflict merge
+
+commit 6eeb390524f15a6cbfe242da2d464c71f5cd0101
+Merge: 86923ed 5e5563d
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 22:53:43 2024 -0700
+
+    Merge branch 'master' into branch3
+
+commit 86923edba7448012e0b13b876de257c7c86d3fec
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 21:04:34 2024 -0700
+
+    DS_Store file finally added to  gitignore
+
+commit 336a0b1959690c0c764ba71170bd6740e45ff30b
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Sat Apr 20 20:52:36 2024 -0700
+
+    gitignore update, conflict branch3 created
+
+commit 5e5563d1845de944827dd640f0c971ae736cefe8
+Author: nataliatiunova <natalia.ivanova.87@gmail.com>
+Date:   Fri Apr 19 19:10:01 2024 -0700
+
+    update history of file
+
 commit 290cf7ab2e8e04e8b67e34fb6ff48d642e4e18f0
 Author: nataliatiunova <natalia.ivanova.87@gmail.com>
 Date:   Fri Apr 19 19:02:06 2024 -0700
